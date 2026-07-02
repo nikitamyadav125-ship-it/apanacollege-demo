@@ -1,2 +1,3 @@
-# apanacollege-demo
+# apnacollege-demo
 This is my first repository.
+Author-nikita yadav
